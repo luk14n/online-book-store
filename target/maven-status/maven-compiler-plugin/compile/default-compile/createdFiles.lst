@@ -1,0 +1,4 @@
+com/lukianmuzyka/onlinebookstore/service/BookService.class
+com/lukianmuzyka/onlinebookstore/repository/BookRepository.class
+com/lukianmuzyka/onlinebookstore/OnlineBookStoreApplication.class
+com/lukianmuzyka/onlinebookstore/model/Book.class
