@@ -1,4 +1,4 @@
-/home/luk14n/mate-academy/online-book-store/src/main/java/com/lukianmuzyka/onlinebookstore/service/BookService.java
-/home/luk14n/mate-academy/online-book-store/src/main/java/com/lukianmuzyka/onlinebookstore/OnlineBookStoreApplication.java
-/home/luk14n/mate-academy/online-book-store/src/main/java/com/lukianmuzyka/onlinebookstore/repository/BookRepository.java
-/home/luk14n/mate-academy/online-book-store/src/main/java/com/lukianmuzyka/onlinebookstore/model/Book.java
+/mnt/c/Users/lukia/Documents/GitHub/online-book-store/src/main/java/com/lukianmuzyka/onlinebookstore/model/Book.java
+/mnt/c/Users/lukia/Documents/GitHub/online-book-store/src/main/java/com/lukianmuzyka/onlinebookstore/repository/BookRepository.java
+/mnt/c/Users/lukia/Documents/GitHub/online-book-store/src/main/java/com/lukianmuzyka/onlinebookstore/OnlineBookStoreApplication.java
+/mnt/c/Users/lukia/Documents/GitHub/online-book-store/src/main/java/com/lukianmuzyka/onlinebookstore/service/BookService.java
