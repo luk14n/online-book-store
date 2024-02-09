@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.lukianmuzyka.onlinebookstore.OnlineBookStoreApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.32 s -- in com.lukianmuzyka.onlinebookstore.OnlineBookStoreApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.779 s -- in com.lukianmuzyka.onlinebookstore.OnlineBookStoreApplicationTests
